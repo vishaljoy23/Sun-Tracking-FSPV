@@ -1,2 +1,6 @@
 # Sun-Tracking-FSPV
-The Arduino code for a Floating Solar Panel array that always points at the sun to maximize efficiency.
+We built a floating solar panel that will always point at the sun to maximize efficiency. 
+
+Advantages of floating panels:
+- Saves land
+- Keeps panels cool keeps them within their most efficient operating temparature.
